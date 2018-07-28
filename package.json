@@ -1,0 +1,25 @@
+{
+  "name": "@mattkrick/asynciterify",
+  "version": "0.0.1",
+  "description": "Turn an event stream into an async iterable",
+  "keywords": [
+    "async iterable",
+    "async",
+    "iterable",
+    "iterator"
+  ],
+  "main": "src/index.js",
+  "author": "Matt Krick <matt.krick@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattkrick/asynciterify"
+  },
+  "homepage": "https://github.com/mattkrick/asynciterify",
+  "bugs": {
+    "url": "https://github.com/mattkrick/asynciterify/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
